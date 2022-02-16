@@ -1,0 +1,155 @@
+.bgimg{
+    background-image: url('images/bgimg.jpeg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 700px;
+}
+.headerset {
+    padding-top: 240px;
+    box-sizing: border-box;
+  
+    
+}
+.headerset h2{
+    font-size: 42px;
+}
+.headerset h1{
+    font-size: 82px;
+    font-weight: bold;
+}
+.oursevice{
+    padding: 100px 0px 60px ;
+    height: 700px;
+}
+.oursevice h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.rowsetting{
+    margin: 80px 0px !important;
+}
+.imgsetting{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+.fa-shopping-cart {
+margin: 24px;
+}
+.fa-laptop {
+    margin: 24px;
+}
+.fa-lock {
+    margin: 24px;
+} 
+.rowsetting h2{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.rowsetting p{
+    padding: 10px;
+    color: #6c757d!important;
+}
+.portfolio{
+    height: 1100px;
+    width: 100%;
+    padding: 100px 0px 50px;
+}
+.portfolio h1{
+    font-size: 50px;
+ font-weight: bold;
+}
+.card{
+    margin-top: 40px;
+    box-shadow: 2px 2px 2px grey;
+}
+.card-img{
+    height: 250px;
+}
+.ourteam{
+    height: 700px;
+    padding: 100px 0px 50px ;
+    width: 100%;
+}
+.ourteam h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.teamsetting{
+    margin-top: 70px !important;
+
+}
+.footer h6{
+    line-height: 50px;
+
+
+}
+.footer{
+    height: 50px;
+}
+@media(min-width:992px){
+  
+}
+@media(min-width:575px) and (max-width:767px){
+    .headerset h2{
+        font-size: 22px;
+    }
+    .headerset h1{
+        font-size: 42px;
+        font-weight: bold;
+    }
+    .oursevice{
+      
+        height: 1200px;
+    }
+    .portfolio{
+        height: 2700px;
+    }
+    .ourteam{
+        height: 1400px;
+    }
+}
+@media(min-width:480px) and (max-width:574px){
+    .headerset h2{
+        font-size: 22px;
+    }
+    .headerset h1{
+        font-size: 42px;
+        font-weight: bold;
+    }
+    .oursevice{
+      
+        height: 1200px;
+    }
+    .portfolio{
+        height: 2700px;
+    }
+    .ourteam{
+        height: 1400px;
+    }
+}
+@media(max-width:479px){
+    .headerset h2{
+        font-size: 22px;
+    }
+    .headerset h1{
+        font-size: 42px;
+        font-weight: bold;
+    }
+    .oursevice{
+      
+        height: 1200px;
+    }
+    .portfolio{
+        height: 2700px;
+    }
+    .ourteam{
+        height: 1400px;
+    }
+}
+
+
+    
+    
